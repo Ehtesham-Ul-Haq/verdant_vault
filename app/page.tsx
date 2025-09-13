@@ -1,8 +1,9 @@
-
 export default function Home() {
   return (
-    <div>
-        <h1 className="text-3xl">Verdant Vault - The new way to backup your files.</h1>
+    <div className="flex flex-col items-center justify-center h-screen">
+      <h1 className="h1">
+        Verdant Vault - The new way to backup your files.
+      </h1>
     </div>
   );
 }
