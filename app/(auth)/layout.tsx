@@ -35,7 +35,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
               alt="logo"
               width={224}
               height={82}
-              className="h-auto w-[200px] lg:w-[250px]"
+              className="h-auto w-[200px] rounded-bl-3xl rounded-br-none rounded-tl-none rounded-tr-3xl bg-brand px-2 lg:w-[250px]"
             />
         </div>
         {children}
