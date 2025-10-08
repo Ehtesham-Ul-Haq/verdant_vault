@@ -19,7 +19,6 @@ const Header = () => {
                 </Button>
             </form>
         </div>
-      <h1>Verdant Vault</h1>
     </header>
   );
 }

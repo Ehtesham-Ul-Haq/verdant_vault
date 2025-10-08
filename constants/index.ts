@@ -81,4 +81,6 @@ export const sortTypes = [
   },
 ];
 
+export const avatarPlaceholderUrl = "https://static.vecteezy.com/system/resources/thumbnails/003/337/584/small_2x/default-avatar-photo-placeholder-profile-icon-vector.jpg";
+
 export const MAX_FILE_SIZE = 50 * 1024 * 1024; // 50MB
